@@ -1,0 +1,68 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<style>
+.biz{
+	display: inline-block;
+   	border: 2px solid green;
+	padding:2px;
+	margin:10px;
+	background-color: aqua;
+
+}
+.heading{
+	display: inline-block;
+	padding:2px;
+	margin:10px;
+}
+.container{
+	border: 3px solid grey;
+	padding: 2px;
+	margin: 5px;
+	background-color: pink;
+
+}
+.article{
+     border: 3px solid pink;
+	padding: 2px;
+	margin: 5px;
+	background-color: white;
+        margin: auto;
+}
+</style>
+<title>LANDMARK UNIVERSITY</title>
+</head>
+<body>
+<div class="container">
+<table bgcolor="white" align="center" border="1">
+<tr><td>
+<div align="center">
+<div class="biz" align="center">
+<a href="logo/ex.html">Logo/<a>!
+</div>
+<div class="heading" align="center">
+<b>Landmark University</b>
+<b><center>Motto: Breaking New Grounds</center></b>
+</div>
+</div>
+<div class="biz" align="topright">
+<a href="/profile/ex.html">Profile/</a>!
+</div>
+<div class="biz" align="topleft">
+<a href="/register/index.htm">Register/</a>!
+</div>
+<table class="article" align="center">
+<center><align="center"><tr><td></center>
+</div>
+</table>
+<form class="article" align="left">
+<left>FORM</left><br>
+<right><label>Name: </label><input type="text" name="name" placeholder="Enter A Name"/><right>  <br> <br>
+<right><label> Age: </label><input type="text" age="age" placeholder="Enter Your Age"/><right> <br> <br>
+<center><input type="submit" name="submit" value="Submit"/><center>
+</form>
+</div>
+</body>
+<hr/>
+</td></tr>
+</html>
